@@ -56,5 +56,5 @@ Detection content published as Sigma, SPL, Suricata rules, and Zeek scripts.
 
 ## Contact
 
-📫 shaikazhadshahzad@gmail.com  
+📫 azhadshahzads@gmail.com  
 🌐 [azhadshahzadshaik.netlify.app](https://azhadshahzadshaik.netlify.app)
