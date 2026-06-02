@@ -8,7 +8,7 @@
 
 M.S. Cyber Forensics. I work on intrusion detection, IoT security, and healthcare data pipelines, and I care about results that still hold up when you run them again.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-shahzad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/s-shahzad)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=s-shahzad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/s-shahzad)
 [![GitHub Streak](https://streak-stats.demolab.com?user=s-shahzad&theme=github-dark-blue&hide_border=true)](https://github.com/s-shahzad)
 
 </div>
@@ -22,7 +22,7 @@ M.S. Cyber Forensics. I work on intrusion detection, IoT security, and healthcar
 ML-based intrusion detection for IoT. Feature engineering, model selection, and evaluation on charging-station network traffic.
 
 **JIST 2022 (co-author).**
-[Remote monitoring system of heart conditions for elderly persons with ECG machine using IoT platform](https://doi.org/10.52547/jist.15692.10.37.11)
+[Remote monitoring system of heart conditions for elderly persons with ECG machine using IoT platform](https://jist.ir/en/Article/15692)
 An IoT sensing and signal pipeline for continuous remote health screening.
 
 ---
