@@ -1,17 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&duration=2400&color=5CD2FF&center=true&vCenter=true&width=620&height=70&lines=Hello+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;Bonjour;Detection+Engineer" alt="Hello in several languages, then: Detection Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&duration=2400&color=5CD2FF&center=true&vCenter=true&width=620&height=70&lines=Hello+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;Bonjour;Post-Quantum+Security" alt="Hello in several languages, then: Post-Quantum Security" />
 
 # Azhad Shahzad Shaik
 
-**Detection Engineering · Applied ML · IEEE first-author**
+**Post-Quantum Migration Security · ML-Based Detection · IEEE first-author**
 
-M.S. Cyber Forensics. I work on intrusion detection, IoT security, and healthcare data pipelines, and I care about results that still hold up when you run them again.
+M.S. Cyber Forensics. I work on the security of the post-quantum migration in real infrastructure: measuring whether systems actually move to PQC or only look like they have. It grows out of my intrusion-detection and IoT-protocol work, and I care about results that still hold up when you run them again.
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=s-shahzad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/s-shahzad)
 [![GitHub Streak](https://streak-stats.demolab.com?user=s-shahzad&theme=github-dark-blue&hide_border=true)](https://github.com/s-shahzad)
 
 </div>
+
+---
+
+## What I work on
+
+- **Post-quantum migration security.** Measuring and detecting incomplete, downgraded, or misconfigured PQC rollouts across TLS and OT/IoT fleets. Crypto-agility and cryptographic supply-chain assurance, not scheme design.
+- **ML for intrusion and anomaly detection.** Feature pipelines, supervised and anomaly models, and evaluation that holds up under replay (scikit-learn, CatBoost, Pandas).
+- **Critical-infrastructure and IoT protocols.** Attack-surface modeling (OCPP, MQTT, CAN), intrusion detection, and sensing on real device telemetry.
+- **Backend.** Python and FastAPI services with real auth, retries that aren't optimistic, and structured errors.
+
+---
+
+## PQC-readiness scanner
+
+A small tool that checks whether TLS endpoints have actually moved to post-quantum key exchange, or only look like they have. It flags hosts that negotiate classical-only key exchange, that can be downgraded, or whose migration is incomplete across a fleet. The start of a measurement-first take on the PQC transition.
+
+Repo: [github.com/s-shahzad/pqc-readiness-scanner](https://github.com/s-shahzad/pqc-readiness-scanner)
 
 ---
 
@@ -33,7 +50,7 @@ A multi-engine intrusion detection system. Suricata and Zeek telemetry feed a Ca
 
 | Metric | Result |
 |---|---|
-| Flows analyzed | 87,432 |
+| Flows analyzed | 87,533 |
 | Runtime | 6 hr continuous soak |
 | False positives | 0 |
 | Validation replay (509 flows) | 10 alerts, 1.96% alert ratio, 100% reproducible |
@@ -43,15 +60,6 @@ A multi-engine intrusion detection system. Suricata and Zeek telemetry feed a Ca
 Detection content ships as Sigma rules, Splunk SPL, Suricata rules, and Zeek scripts, each mapped to the MITRE ATT&CK technique it catches.
 
 Repo: [github.com/s-shahzad/Universal-NIDS](https://github.com/s-shahzad/Universal-NIDS)
-
----
-
-## What I work on
-
-- **Applied ML.** Feature pipelines, supervised and anomaly models, and evaluation that holds up under replay (scikit-learn, CatBoost, Pandas).
-- **IoT and sensing.** Intrusion detection and health monitoring on real device telemetry.
-- **Backend.** Python and FastAPI services with real auth, retries that aren't optimistic, and structured errors.
-- **Healthcare data.** HL7 v2.5 to FHIR R4 pipelines on Azure, validated at every stage.
 
 ---
 
@@ -81,5 +89,6 @@ Repo: [github.com/s-shahzad/Universal-NIDS](https://github.com/s-shahzad/Univers
 
 ## Contact
 
-Email: azhadshahzads@gmail.com
+Email: shaikazhadshahzad@gmail.com
+ORCID: [0009-0009-6450-5837](https://orcid.org/0009-0009-6450-5837)
 Portfolio: [azhadshahzadshaik.netlify.app](https://azhadshahzadshaik.netlify.app)
