@@ -85,8 +85,9 @@ Repo: [github.com/s-shahzad/fusion-nids](https://github.com/s-shahzad/fusion-nid
 
 ## Education & Certifications
 
-- **M.S. in Cybersecurity**, Sacred Heart University
+- **M.S. in Cybersecurity** — Jack Welch College of Business & Technology, Sacred Heart University
 - **B.Tech, Electronics & Communication Engineering** — specialization in Embedded Controllers, IoTs & Power Electronics, First Class with Distinction — Koneru Lakshmaiah Education Foundation (KL University)
+- **NSA CAE Designated Institution Certificate in Cyber Defense** — Sacred Heart University
 - CompTIA Security+ (SY0-701), Fortinet NSE 1 & 2
 
 ---
