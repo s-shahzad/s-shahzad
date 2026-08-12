@@ -6,7 +6,7 @@
 
 **Post-Quantum Migration Security · ML-Based Detection · IEEE first-author**
 
-M.S. Cyber Forensics. I work on the security of the post-quantum migration in real infrastructure: measuring whether systems actually move to PQC or only look like they have. It grows out of my intrusion-detection and IoT-protocol work, and I care about results that still hold up when you run them again.
+M.S. in Cybersecurity. I work on the security of the post-quantum migration in real infrastructure: measuring whether systems actually move to PQC or only look like they have. It grows out of my intrusion-detection and IoT-protocol work, and I care about results that still hold up when you run them again.
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=s-shahzad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/s-shahzad)
 [![GitHub Streak](https://streak-stats.demolab.com?user=s-shahzad&theme=github-dark-blue&hide_border=true)](https://github.com/s-shahzad)
@@ -28,7 +28,7 @@ M.S. Cyber Forensics. I work on the security of the post-quantum migration in re
 
 A small tool that checks whether TLS endpoints have actually moved to post-quantum key exchange, or only look like they have. It flags hosts that negotiate classical-only key exchange, that can be downgraded, or whose migration is incomplete across a fleet. The start of a measurement-first take on the PQC transition.
 
-Repo: [github.com/s-shahzad/pqc-readiness-scanner](https://github.com/s-shahzad/pqc-readiness-scanner)
+*Repository is currently private while the associated papers are under review.*
 
 ---
 
@@ -44,22 +44,26 @@ An IoT sensing and signal pipeline for continuous remote health screening.
 
 ---
 
-## Universal NIDS
+## Fusion NIDS
 
 A multi-engine intrusion detection system. Suricata and Zeek telemetry feed a CatBoost classifier, with a signature / anomaly / ML fusion layer on top. I built it to be reproducible, since a lot of IDS papers aren't.
 
 | Metric | Result |
 |---|---|
-| Flows analyzed | 87,533 |
-| Runtime | 6 hr continuous soak |
-| False positives | 0 |
-| Validation replay (509 flows) | 10 alerts, 1.96% alert ratio, 100% reproducible |
+| Per-packet records | 87,533 |
+| Soak duration | 21,600 s configured; 3 h 19 m of flow records |
+| Emitted alerts | 0 |
+| Peak capture-side packet loss | 30.9% |
+| Peak memory | 409 MB |
+| Restart recovery | 13.3 s |
 | Detection engines | Signature, supervised ML, unsupervised ML, weighted fusion |
 | Test coverage | 79% |
 
-Detection content ships as Sigma rules, Splunk SPL, Suricata rules, and Zeek scripts, each mapped to the MITRE ATT&CK technique it catches.
+**What this does and does not show.** The corpus contained no attack-labelled traffic, so zero emitted alerts demonstrates **pipeline stability under sustained load — not detection quality, and not a false-positive rate.** I audited my own headline number and published the qualification rather than letting it stand unqualified.
 
-Repo: [github.com/s-shahzad/Universal-NIDS](https://github.com/s-shahzad/Universal-NIDS)
+Detection content ships as Sigma rules, Splunk SPL, Suricata rules, and Zeek scripts, each mapped to the MITRE ATT&CK® technique it catches.
+
+Repo: [github.com/s-shahzad/fusion-nids](https://github.com/s-shahzad/fusion-nids)
 
 ---
 
@@ -81,8 +85,8 @@ Repo: [github.com/s-shahzad/Universal-NIDS](https://github.com/s-shahzad/Univers
 
 ## Education & Certifications
 
-- **M.S. Cyber/Computer Forensics**, Sacred Heart University
-- **B.Tech, Electronics & Communication**, Koneru Lakshmaiah University
+- **M.S. in Cybersecurity**, Sacred Heart University
+- **B.Tech, Electronics & Communication Engineering** — specialization in Embedded Controllers, IoTs & Power Electronics, First Class with Distinction — Koneru Lakshmaiah Education Foundation (KL University)
 - CompTIA Security+ (SY0-701), Fortinet NSE 1 & 2
 
 ---
