@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&duration=2400&color=5CD2FF&center=true&vCenter=true&width=620&height=70&lines=Hello+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;Bonjour;Post-Quantum+Security" alt="Hello in several languages, then: Post-Quantum Security" />
-
 # Azhad Shahzad Shaik
 
 **Post-Quantum Migration Security · ML-Based Detection · IEEE first-author**
 
-M.S. in Cybersecurity. I work on the security of the post-quantum migration in real infrastructure: measuring whether systems actually move to PQC or only look like they have. It grows out of my intrusion-detection and IoT-protocol work, and I care about results that still hold up when you run them again.
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=s-shahzad&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/s-shahzad)
-[![GitHub Streak](https://streak-stats.demolab.com?user=s-shahzad&theme=github-dark-blue&hide_border=true)](https://github.com/s-shahzad)
+[Portfolio](https://azhadshahzadshaik.netlify.app) ·
+[ORCID](https://orcid.org/0009-0009-6450-5837) ·
+[Google Scholar](https://scholar.google.com/citations?user=l2McKRYAAAAJ)
 
 </div>
+
+M.S. in Cybersecurity. I work on the security of the post-quantum migration in real infrastructure: measuring whether systems actually move to PQC or only look like they have. It grows out of my intrusion-detection and IoT-protocol work, and I care about results that still hold up when you run them again.
 
 ---
 
@@ -28,18 +27,18 @@ M.S. in Cybersecurity. I work on the security of the post-quantum migration in r
 
 A small tool that checks whether TLS endpoints have actually moved to post-quantum key exchange, or only look like they have. It flags hosts that negotiate classical-only key exchange, that can be downgraded, or whose migration is incomplete across a fleet. The start of a measurement-first take on the PQC transition.
 
-*Repository is currently private while the associated papers are under review.*
+*Repository is private pending publication of the associated papers.*
 
 ---
 
 ## Research
 
 **IEEE GCAIoT 2025 (first author).**
-[Plugged-in and Protected: Leveraging Machine Learning to Secure IoT-Based EV Charging Stations from DoS Threats](https://doi.org/10.1109/GCAIoT68269.2025.11275540)
+[Plugged-in and Protected: Leveraging Machine Learning to Secure IoT-Based Electric Vehicle Charging Stations from Denial-of-Service Threats](https://doi.org/10.1109/GCAIoT68269.2025.11275540)
 ML-based intrusion detection for IoT. Feature engineering, model selection, and evaluation on charging-station network traffic.
 
 **JIST 2022 (co-author).**
-[Remote monitoring system of heart conditions for elderly persons with ECG machine using IoT platform](https://jist.ir/en/Article/15692)
+[Remote monitoring system of heart conditions for elderly persons with ECG machine using IoT platform](https://doi.org/10.52547/jist.15692.10.37.11)
 An IoT sensing and signal pipeline for continuous remote health screening.
 
 ---
@@ -88,7 +87,7 @@ Repo: [github.com/s-shahzad/fusion-nids](https://github.com/s-shahzad/fusion-nid
 - **M.S. in Cybersecurity** — Jack Welch College of Business & Technology, Sacred Heart University
 - **B.Tech, Electronics & Communication Engineering** — specialization in Embedded Controllers, IoTs & Power Electronics, First Class with Distinction — Koneru Lakshmaiah Education Foundation (KL University)
 - **NSA CAE Designated Institution Certificate in Cyber Defense** — Sacred Heart University
-- CompTIA Security+ (SY0-701), Fortinet NSE 1 & 2
+- **CompTIA Security+ ce (SY0-701)** — valid through October 2028
 
 ---
 
