@@ -7,7 +7,8 @@
 
 [Portfolio](https://azhadshahzadshaik.netlify.app) ·
 [ORCID](https://orcid.org/0009-0009-6450-5837) ·
-[Google Scholar](https://scholar.google.com/citations?user=l2McKRYAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=l2McKRYAAAAJ) ·
+[LinkedIn](https://www.linkedin.com/in/azhad-shahzad-shaik/)
 
 </div>
 <!-- GENERATED:header END -->
