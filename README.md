@@ -1,3 +1,4 @@
+<!-- GENERATED:header START -->
 <div align="center">
 
 # Azhad Shahzad Shaik
@@ -9,6 +10,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=l2McKRYAAAAJ)
 
 </div>
+<!-- GENERATED:header END -->
 
 M.S. in Cybersecurity. I work on the security of the post-quantum migration in real infrastructure: measuring whether systems actually move to PQC or only look like they have. It grows out of my intrusion-detection and IoT-protocol work, and I care about results that still hold up when you run them again.
 
@@ -84,15 +86,19 @@ Repo: [github.com/s-shahzad/fusion-nids](https://github.com/s-shahzad/fusion-nid
 
 ## Education & Certifications
 
-- **M.S. in Cybersecurity** — Jack Welch College of Business & Technology, Sacred Heart University
-- **B.Tech, Electronics & Communication Engineering** — specialization in Embedded Controllers, IoTs & Power Electronics, First Class with Distinction — Koneru Lakshmaiah Education Foundation (KL University)
+<!-- GENERATED:credentials START -->
+- **Master of Science, Cybersecurity** — Jack Welch College of Business & Technology, Sacred Heart University
+- **Bachelor of Technology, Electronics and Communication Engineering** — Koneru Lakshmaiah Education Foundation (KL University) — specialization in Embedded Controllers, IoTs & Power Electronics, First Class with Distinction
+- **CompTIA Security+ ce (SY0-701)** — CompTIA, valid through October 2028
 - **NSA CAE Designated Institution Certificate in Cyber Defense** — Sacred Heart University
-- **CompTIA Security+ ce (SY0-701)** — valid through October 2028
+<!-- GENERATED:credentials END -->
 
 ---
 
 ## Contact
 
+<!-- GENERATED:contact START -->
 Email: shaikazhadshahzad@gmail.com
 ORCID: [0009-0009-6450-5837](https://orcid.org/0009-0009-6450-5837)
 Portfolio: [azhadshahzadshaik.netlify.app](https://azhadshahzadshaik.netlify.app)
+<!-- GENERATED:contact END -->
