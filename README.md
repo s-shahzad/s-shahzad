@@ -88,7 +88,7 @@ Repo: [github.com/s-shahzad/fusion-nids](https://github.com/s-shahzad/fusion-nid
 ## Education & Certifications
 
 <!-- GENERATED:credentials START -->
-- **Master of Science, Cybersecurity** — Jack Welch College of Business & Technology, Sacred Heart University
+- **<!--f:education.ms.degree-->Master of Science, Cybersecurity<!--/f-->** — Jack Welch College of Business & Technology, <!--f:education.ms.school-->Sacred Heart University<!--/f-->
 - **Bachelor of Technology, Electronics and Communication Engineering** — Koneru Lakshmaiah Education Foundation (KL University) — specialization in Embedded Controllers, IoTs & Power Electronics, First Class with Distinction
 - **CompTIA Security+ ce (SY0-701)** — CompTIA, valid through October 2028
 - **NSA CAE Designated Institution Certificate in Cyber Defense** — Sacred Heart University
@@ -100,6 +100,6 @@ Repo: [github.com/s-shahzad/fusion-nids](https://github.com/s-shahzad/fusion-nid
 
 <!-- GENERATED:contact START -->
 Email: shaikazhadshahzad@gmail.com
-ORCID: [0009-0009-6450-5837](https://orcid.org/0009-0009-6450-5837)
+ORCID: [<!--f:identity.orcid-->0009-0009-6450-5837<!--/f-->](https://orcid.org/0009-0009-6450-5837)
 Portfolio: [azhadshahzadshaik.netlify.app](https://azhadshahzadshaik.netlify.app)
 <!-- GENERATED:contact END -->
